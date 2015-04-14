@@ -22,5 +22,5 @@ smallestPath(arr)
 //   path: ["07", "29", "11", "31"]
 // }
 ```
-
+I didnt use any libraries at all, just looked up basic JS methods like parseInt and things like that. 
 Please feel free to ask me any questions and send me some critique! To code warriors! 
