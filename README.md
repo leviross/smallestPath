@@ -12,10 +12,15 @@ var arr = [
      ["13", "11", "70"],
   ["30", "31", "77", "45"]
 ];
+```
+That should output an object literal like so:
 
+```
 smallestPath(arr)
 // {
 //   sum: 78,
 //   path: ["07", "29", "11", "31"]
 // }
 ```
+
+Please feel free to ask me any questions and send me some critique! To code warriors! 
